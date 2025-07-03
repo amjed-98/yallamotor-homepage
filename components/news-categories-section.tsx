@@ -106,112 +106,95 @@ const articles = [
     publishDate: "01 July 2025",
     readTime: "2",
   },
+
   {
     id: 2,
-    title: "Discover New Kaiyi Cars in Saudi Arabia",
-    image:
-      "https://ymimg1.b8cdn.com/resized/article/53782/logo_file_name/slide_show_03.jpg",
-    description: "Discover New Kaiyi Cars in Saudi Arabia",
-    publishDate: "01 July 2025",
-    readTime: "1",
-  },
-  {
-    id: 3,
-    title: "Volvo's Commitment to Sustainable Mobility in Saudi Arabia",
+    title: "Hyundai Unveils Ioniq 6 N: What's New?",
     image:
       "https://ymimg1.b8cdn.com/resized/article/53782/logo_file_name/slide_show_03.jpg",
     description:
-      "Discover Volvo's new models in Saudi Arabia, focusing on sustainability and luxury.",
+      "Explore the features and performance of the new Hyundai Ioniq 6 N.",
+    publishDate: "01 July 2025",
+    readTime: "2",
+  },
+  {
+    id: 3,
+    title: "Hyundai Unveils Ioniq 6 N: What's New?",
+    image:
+      "https://ymimg1.b8cdn.com/resized/article/53782/logo_file_name/slide_show_03.jpg",
+    description:
+      "Explore the features and performance of the new Hyundai Ioniq 6 N.",
     publishDate: "01 July 2025",
     readTime: "2",
   },
   {
     id: 4,
-    title: "The Future of Transportation in Saudi Arabia",
+    title: "Hyundai Unveils Ioniq 6 N: What's New?",
     image:
       "https://ymimg1.b8cdn.com/resized/article/53782/logo_file_name/slide_show_03.jpg",
     description:
-      "Discover Volvo's new models in Saudi Arabia, focusing on sustainability and luxury.",
+      "Explore the features and performance of the new Hyundai Ioniq 6 N.",
     publishDate: "01 July 2025",
     readTime: "2",
   },
+
   {
     id: 5,
-    title: "The Future of Transportation in Saudi Arabia",
+    title: "Hyundai Unveils Ioniq 6 N: What's New?",
     image:
       "https://ymimg1.b8cdn.com/resized/article/53782/logo_file_name/slide_show_03.jpg",
     description:
-      "Discover Volvo's new models in Saudi Arabia, focusing on sustainability and luxury.",
+      "Explore the features and performance of the new Hyundai Ioniq 6 N.",
     publishDate: "01 July 2025",
     readTime: "2",
   },
   {
     id: 6,
-    title: "The Future of Transportation in Saudi Arabia",
+    title: "Hyundai Unveils Ioniq 6 N: What's New?",
     image:
       "https://ymimg1.b8cdn.com/resized/article/53782/logo_file_name/slide_show_03.jpg",
     description:
-      "Discover Volvo's new models in Saudi Arabia, focusing on sustainability and luxury.",
+      "Explore the features and performance of the new Hyundai Ioniq 6 N.",
     publishDate: "01 July 2025",
     readTime: "2",
   },
   {
     id: 7,
-    title: "The Future of Transportation in Saudi Arabia",
+    title: "Hyundai Unveils Ioniq 6 N: What's New?",
     image:
       "https://ymimg1.b8cdn.com/resized/article/53782/logo_file_name/slide_show_03.jpg",
     description:
-      "Discover Volvo's new models in Saudi Arabia, focusing on sustainability and luxury.",
+      "Explore the features and performance of the new Hyundai Ioniq 6 N.",
     publishDate: "01 July 2025",
     readTime: "2",
   },
   {
     id: 8,
-    title: "The Future of Transportation in Saudi Arabia",
+    title: "Hyundai Unveils Ioniq 6 N: What's New?",
     image:
       "https://ymimg1.b8cdn.com/resized/article/53782/logo_file_name/slide_show_03.jpg",
     description:
-      "Discover Volvo's new models in Saudi Arabia, focusing on sustainability and luxury.",
+      "Explore the features and performance of the new Hyundai Ioniq 6 N.",
     publishDate: "01 July 2025",
     readTime: "2",
   },
   {
     id: 9,
-    title: "The Future of Transportation in Saudi Arabia",
+    title: "Hyundai Unveils Ioniq 6 N: What's New?",
     image:
       "https://ymimg1.b8cdn.com/resized/article/53782/logo_file_name/slide_show_03.jpg",
     description:
-      "Discover Volvo's new models in Saudi Arabia, focusing on sustainability and luxury.",
+      "Explore the features and performance of the new Hyundai Ioniq 6 N.",
     publishDate: "01 July 2025",
     readTime: "2",
   },
   {
     id: 10,
-    title: "The Future of Transportation in Saudi Arabia",
+    title: "Hyundai Unveils Ioniq 6 N: What's New?",
     image:
       "https://ymimg1.b8cdn.com/resized/article/53782/logo_file_name/slide_show_03.jpg",
     description:
-      "Discover Volvo's new models in Saudi Arabia, focusing on sustainability and luxury.",
-    publishDate: "01 July 2025",
-    readTime: "2",
-  },
-  {
-    id: 11,
-    title: "The Future of Transportation in Saudi Arabia",
-    image:
-      "https://ymimg1.b8cdn.com/resized/article/53782/logo_file_name/slide_show_03.jpg",
-    description:
-      "Discover Volvo's new models in Saudi Arabia, focusing on sustainability and luxury.",
-    publishDate: "01 July 2025",
-    readTime: "2",
-  },
-  {
-    id: 12,
-    title: "The Future of Transportation in Saudi Arabia",
-    image:
-      "https://ymimg1.b8cdn.com/resized/article/53782/logo_file_name/slide_show_03.jpg",
-    description:
-      "Discover Volvo's new models in Saudi Arabia, focusing on sustainability and luxury.",
+      "Explore the features and performance of the new Hyundai Ioniq 6 N.",
     publishDate: "01 July 2025",
     readTime: "2",
   },
